@@ -5,11 +5,6 @@ authors:
 - David Domeij
 - Fatih Guvenen
 - admin
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
 date: "2022-05-01T00:00:00Z"
 doi: "https://www.aeaweb.org/articles?id=10.1257/mac.20190019"
 
