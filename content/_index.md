@@ -15,7 +15,6 @@ sections:
     id: publications
     content:
       title: Publications
-      align: left
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
@@ -27,6 +26,8 @@ sections:
     design:
       columns: '1'
       view: citation
+    advanced:
+      css_style: "text-align: left;"
   - block: collection
     # id: workingpapers
     content:
