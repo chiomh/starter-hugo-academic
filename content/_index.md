@@ -30,17 +30,17 @@ sections:
   - block: collection
     # id: workingpapers
     content:
-      title: Working Papers
+      title: <h1 align="left">Working Papers</h1>
       filters:
         folders:
           - workingpapers
     design:
-      columns: '2'
+      columns: '1'
       view: citation
   - block: portfolio
     # id: workinprogress
     content:
-      title: Work in Progress
+      title: <h1 align="left">Work in Progress</h1>
       filters:
         folders:
           - workinprogress
