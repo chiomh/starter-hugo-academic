@@ -35,9 +35,9 @@ education:
     - course: MA in Economics
       institution: University of Minnesota
       year: 2015
-    - course: MA in Economics and Finance
+    - course: MSc in Economics and Finance
       institution: CEMFI (Spain)
-      year: 1984
+      year: 2011
     - course: BA (Licenciatura) In Economics
       institution: Universidad Carlos III de Madrid (Spain)
       year: 2009
