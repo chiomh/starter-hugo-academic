@@ -1,5 +1,5 @@
 ---
-avatar_filename: tdaw8mce_400x400.jpeg
+avatar_filename: My_photo.jpg
 bio: My research interests include macroeconomics, household consumption, and labor.
 interests: []
 social:
