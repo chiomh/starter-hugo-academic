@@ -32,9 +32,9 @@ education:
     - course: PhD in Economics
       institution: University of Minnesota
       year: 2017
-    - course: MA in Economics
-      institution: University of Minnesota
-      year: 2015
+    # - course: MA in Economics
+    #   institution: University of Minnesota
+    #   year: 2015
     - course: MSc in Economics and Finance
       institution: CEMFI (Spain)
       year: 2011
