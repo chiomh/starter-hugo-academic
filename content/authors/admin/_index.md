@@ -1,6 +1,5 @@
 ---
-title: Rocio Madera
-role: Professor of Artificial Intelligence
+avatar_filename: tdaw8mce_400x400.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -47,7 +46,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Professor of Artificial Intelligence
 highlight_name: true
+title: Rocio Madera
 first_name: Alice
 email: ""
 ---
