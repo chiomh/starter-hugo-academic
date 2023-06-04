@@ -19,7 +19,7 @@ main:
   - name: Upcoming
     url: '#talks'
     weight: 50  
-- name: Contact
+  - name: Contact
     url: '#contact'
     weight: 60
 
