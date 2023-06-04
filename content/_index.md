@@ -24,7 +24,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      columns: '2'
+      columns: '1'
       view: citation
   - block: collection
     # id: workingpapers
