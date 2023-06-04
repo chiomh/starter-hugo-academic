@@ -15,6 +15,7 @@ sections:
     id: publications
     content:
       title: Publications
+      align: left
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
