@@ -29,15 +29,18 @@ organizations:
     url: https://www.smu.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Economics
+      institution: University of Minnesota
+      year: 1997
+    - course: MA in Economics
+      institution: University of Minnesota
+      year: 2015
+    - course: MA in Economics and Finance
+      institution: CEMFI (Spain)
+      year: 1984
+    - course: BA (Licenciatura) In Economics
+      institution: Universidad Carlos III de Madrid (Spain)
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 superuser: true
 status:
   icon: ☕️
