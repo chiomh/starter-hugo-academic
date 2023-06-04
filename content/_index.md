@@ -23,11 +23,11 @@ sections:
         folders:
           - publication
         exclude_featured: false
+      sort_by: 'Date'
     design:
       columns: '1'
+      text-align: left
       view: citation
-    advanced:
-      css_style: "text-align: left;"
   - block: collection
     # id: workingpapers
     content:
