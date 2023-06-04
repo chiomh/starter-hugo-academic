@@ -1,18 +1,14 @@
 ---
 avatar_filename: tdaw8mce_400x400.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: My research interests include macroeconomics, household consumption, and labor.
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/elpuntoderocio
     label: Follow me on Twitter
     display:
       header: true
@@ -21,16 +17,16 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/chiomh
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/rocio-madera-54b95b124/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Southern Methodist University
+    url: https://www.smu.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -46,11 +42,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Economics
 highlight_name: true
 title: Rocio Madera
 first_name: Alice
 email: ""
 ---
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
