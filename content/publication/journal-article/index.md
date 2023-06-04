@@ -1,13 +1,17 @@
 ---
-title: "An example journal article"
+title: "Skewed Idiosyncratic Income Risk over the Business Cycle: Sources and Insurance"
 authors:
+- Chris Busch
+- David Domeij
+- Fatih Guvenen
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- "Equal contribution"
+- "Equal contribution"
+date: "2022-05-01T00:00:00Z"
+doi: "https://www.aeaweb.org/articles?id=10.1257/mac.20190019"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,13 +23,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*AEJ Macro*(1)"
+publication_short: "AEJ Macro"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We provide new evidence on business cycle fluctuations in skewed labor income risk in the United States, Germany, Sweden, and France. We document four results. First, in all countries, the skewness of individual income growth is strongly procyclical, whereas its variance is flat and acyclical. Second, this result also holds for continuously employed, full-time workers, indicating that the hours margin is not the main driver; additional analyses of hours and wages confirm that both margins are important. Third, within-household smoothing does not seem effective at mitigating skewness fluctuations. Fourth, tax-and-transfer policies blunt some of the largest declines in incomes, reducing procyclical fluctuations in skewness.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We provide new evidence on business cycle fluctuations in skewed labor income risk in the United States, Germany, Sweden, and France.
 
 tags:
 - Source Themes
