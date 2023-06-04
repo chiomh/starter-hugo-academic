@@ -1,5 +1,5 @@
 ---
-avatar_filename: avatar.png
+avatar_filename: []
 bio: My research interests include macroeconomics, household consumption, and labor.
 interests: []
 social:
