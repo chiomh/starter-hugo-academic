@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: <h1 align="center">Publications</h1>
+      title: <h1 align="left">Publications</h1>
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
