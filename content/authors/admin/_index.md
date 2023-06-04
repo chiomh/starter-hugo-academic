@@ -51,3 +51,8 @@ title: Rocio Madera
 first_name: Rocio
 email: "romadera@smu.edu"
 ---
+
+
+Welcome to my website! I am an Assistant Professor at the Department of Economics at Southern Methodist University. I am also a CESifo Research Network Affiliate. 
+
+My research combines income and spending micro-data with quantitative life-cycle and spatial models to answer questions on macroeconomic policy and labor economics; with a particular focus on measuring the propagation and pass-through of income and price changes to individuals' welfare. 
