@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: Research
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
@@ -27,7 +27,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: workingpapers
+    # id: workingpapers
     content:
       title: Working Papers
       filters:
@@ -37,7 +37,7 @@ sections:
       columns: '2'
       view: citation
   - block: portfolio
-    id: workinprogress
+    # id: workinprogress
     content:
       title: Work in Progress
       filters:
