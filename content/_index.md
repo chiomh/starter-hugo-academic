@@ -8,17 +8,17 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: About Me
+      # title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
     id: publications
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
           - publication
