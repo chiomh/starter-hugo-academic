@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: <h1 align="center">Publications</h1>
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
@@ -26,7 +26,6 @@ sections:
       sort_by: 'Date'
     design:
       columns: '1'
-      text-align: left
       view: citation
   - block: collection
     # id: workingpapers
