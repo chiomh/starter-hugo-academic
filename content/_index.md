@@ -8,7 +8,11 @@ sections:
   - block: about.biography
     id: about
     content:
-      # title: About Me
+      # title: Hola
+      text: |-
+        Welcome to my website! I am an Assistant Professor at the Department of Economics at Southern Methodist University. I am also a CESifo Research Network Affiliate.
+        
+        My research combines income and spending micro-data with quantitative life-cycle and spatial models to answer questions on macroeconomic policy and labor economics; with a particular focus on measuring the propagation and pass-through of income and price changes to individuals' welfare. 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
