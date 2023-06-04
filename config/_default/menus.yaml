@@ -7,19 +7,19 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Working Papers
+  - name: Publications 
     url: '#posts'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
+  - name: Working Papers
     url: '#featured'
-    weight: 50
-  - name: Contact
+    weight: 30      
+  - name: Work in Progress 
+    url: '#projects'
+    weight: 40
+  - name: Upcoming
+    url: '#talks'
+    weight: 50  
+- name: Contact
     url: '#contact'
     weight: 60
 
