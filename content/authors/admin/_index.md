@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: University of Minnesota
-      year: 1997
+      year: 2017
     - course: MA in Economics
       institution: University of Minnesota
       year: 2015
