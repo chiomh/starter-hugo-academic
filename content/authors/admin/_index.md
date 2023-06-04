@@ -44,10 +44,10 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Madera
 role: Assistant Professor of Economics
 highlight_name: true
 title: Rocio Madera
-first_name: Alice
-email: ""
+first_name: Rocio
+email: "romadera@smu.edu"
 ---
