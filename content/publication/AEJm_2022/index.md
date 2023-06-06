@@ -34,7 +34,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: 'https://www.openicpsr.org/openicpsr/project/120905/version/V1/view'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -61,7 +61,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+# slides: ""
 ---
 
 {{% callout note %}}
