@@ -2,9 +2,9 @@
 title: "Income Contingent University Loans: Policy Design and an Application to Spain"
 authors:
 - Antonio Cabrales
-- Maia G\"uell
+- Maia Güell
 - admin
-- Anal\'ia Viola
+- Analía Viola
 date: "2019-09-01T00:00:00Z"
 doi: "https://doi.org/10.1093/epolic/eiz010"
 
