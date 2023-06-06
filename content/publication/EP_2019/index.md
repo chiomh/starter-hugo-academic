@@ -1,15 +1,15 @@
 ---
-title: "Skewed Idiosyncratic Income Risk over the Business Cycle: Sources and Insurance"
+title: "Income Contingent University Loans: Policy Design and an Application to Spain"
 authors:
-- Chris Busch
-- David Domeij
-- Fatih Guvenen
+- Antonio Cabrales
+- Maia G\"uell
 - admin
-date: "2022-05-01T00:00:00Z"
-doi: "https://www.aeaweb.org/articles?id=10.1257/mac.20190019"
+- Anal\'ia Viola
+date: "2019-09-01T00:00:00Z"
+doi: "https://doi.org/10.1093/epolic/eiz010"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,10 +18,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*AEJ Macro*(1)"
-publication_short: "AEJ Macro"
+publication: "*Economic Policy*(1)"
+publication_short: "Economic Policy"
 
-abstract: We provide new evidence on business cycle fluctuations in skewed labor income risk in the United States, Germany, Sweden, and France. We document four results. First, in all countries, the skewness of individual income growth is strongly procyclical, whereas its variance is flat and acyclical. Second, this result also holds for continuously employed, full-time workers, indicating that the hours margin is not the main driver; additional analyses of hours and wages confirm that both margins are important. Third, within-household smoothing does not seem effective at mitigating skewness fluctuations. Fourth, tax-and-transfer policies blunt some of the largest declines in incomes, reducing procyclical fluctuations in skewness.
+abstract: In Europe, the need for additional funding coming from either budget cuts and/or increased costs due to increased competition in university quality has reopened the debate on the financing of university systems. An attractive alternative to the current general-tax-financed subsidies is Income Contingent Loans (ICL), a flexible scheme that puts more weight on private resources while enhancing progressivity. One challenge of the viability of ICL systems is the functioning of the labor market for university graduates. This paper offers a general analysis of the economics of ICL, followed by an application to Spain. We set up a loan laboratory in which we can explore the distributional effects of different loan systems to finance tertiary education at current costs as well as to increase university funding to improve its quality. We use simulated lifetime earnings of graduates matching the dynamics of employment and earnings in the Spanish administrative social security data to calculate the burden of introducing ICL for individuals at different points of the earnings distribution and for the government. We find that (1) our proposed structure is highly progressive under all specifications, with the top quarter of the distribution paying close to the full amount of the tuition and the bottom 10% paying almost no tuition and (2) the share of total university education subsidized by the government is between 16 and 56 percentage points less than under the current system.
 
 # Summary. An optional shortened abstract.
 summary: We provide new evidence on business cycle fluctuations in skewed labor income risk in the United States, Germany, Sweden, and France.
@@ -33,12 +33,12 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://www.dropbox.com/s/d5r27oc8rw2378a/Prestamos_Sep18.pdf
+url_code: 'https://github.com/chiomh/CGMV_prestamos'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+# url_slides: ''
 url_source: ''
 url_video: ''
 
@@ -61,7 +61,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: ""
 ---
 
 {{% callout note %}}
