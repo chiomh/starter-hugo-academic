@@ -18,8 +18,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*American Economic Journal: Macroeconomics*(1)"
-publication_short: "AEJ Macro"
+publication: "<span style='color: #57ADBF'>*American Economic Journal: Macroeconomics*</span>"
+# publication_short: "AEJ Macro"
 
 abstract: We provide new evidence on business cycle fluctuations in skewed labor income risk in the United States, Germany, Sweden, and France. We document four results. First, in all countries, the skewness of individual income growth is strongly procyclical, whereas its variance is flat and acyclical. Second, this result also holds for continuously employed, full-time workers, indicating that the hours margin is not the main driver; additional analyses of hours and wages confirm that both margins are important. Third, within-household smoothing does not seem effective at mitigating skewness fluctuations. Fourth, tax-and-transfer policies blunt some of the largest declines in incomes, reducing procyclical fluctuations in skewness.
 
@@ -63,13 +63,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
