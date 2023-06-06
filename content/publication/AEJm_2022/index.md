@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.nber.org/system/files/working_papers/w24569/w24569.pdf
 url_code: 'https://www.openicpsr.org/openicpsr/project/120905/version/V1/view'
 url_dataset: ''
 url_poster: ''
