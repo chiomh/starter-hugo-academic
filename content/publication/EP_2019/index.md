@@ -6,7 +6,7 @@ authors:
 - Fatih Guvenen
 - admin
 date: "2022-05-01T00:00:00Z"
-doi: "https://doi.org/10.1257/mac.20190019"
+doi: "https://www.aeaweb.org/articles?id=10.1257/mac.20190019"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -38,7 +38,7 @@ url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-# url_slides: ''
+url_slides: ''
 url_source: ''
 url_video: ''
 
@@ -61,7 +61,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+slides: example
 ---
 
 {{% callout note %}}
