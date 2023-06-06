@@ -3,7 +3,7 @@ title: "Does Self-Employment Pay? The Role of Unemployment and Earnings Risk"
 authors:
 - Joaquín García-Cabo
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,8 +30,8 @@ tags:
 featured: false
 
 links:
-# - name: Fed IF Discussion Papers
-#   url: https://www.federalreserve.gov/econres/ifdp/files/ifdp1264.pdf
+- name: Fed IF Discussion Papers
+  url: https://www.federalreserve.gov/econres/ifdp/files/ifdp1264.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: ''
