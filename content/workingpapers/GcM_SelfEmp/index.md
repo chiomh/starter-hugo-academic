@@ -18,4 +18,20 @@ publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
+
+abstract: This paper studies the role of earnings risk in reconciling the observed lower earnings returns in
+self-employment. Using Spanish administrative data, we characterize the distribution and dynamics
+of earnings and document lower and less dispersed earnings in self-employment. We consider
+alternative hypotheses and highlight the role of lower unemployment risk in self-employment.
+We decompose earnings risk dynamics by estimating a life-cycle earnings process. Indeed, the
+self-employed experience lower returns but face lower volatility and persistence of shocks. Our
+results rule out theories in favor of experimentation and earnings growth in self-employment, and
+highlight the trade-off between earnings and unemployment risk.
+
+# Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags:
+- Source Themes
+featured: false
 ---
