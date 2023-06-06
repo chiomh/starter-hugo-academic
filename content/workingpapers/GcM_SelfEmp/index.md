@@ -36,8 +36,8 @@ tags:
 featured: false
 
 links:
-- name: Fed IF Discussion Papers
-  url: https://www.federalreserve.gov/econres/ifdp/files/ifdp1264.pdf
+# - name: Fed IF Discussion Papers
+#   url: https://www.federalreserve.gov/econres/ifdp/files/ifdp1264.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: ''
